@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadbava&label=Profile%20views&color=0e75b6&style=flat" alt="ahadbava" /> </p>
 
-- 💬 Ask me about **Html , Css , JavaScript**
+- 💬 Ask me about **Raect Js , Next Js , Node Js**
 
 - 📫 How to reach me **www.abdulahads.in**
 
