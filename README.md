@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **www.abdulahads.in**
 
-- 📄 Know about my experiences [www.abdulahads.in](www.abdulahads.in)
+- 📄 Know about our start up [www.spdc.in](www.spdc.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
