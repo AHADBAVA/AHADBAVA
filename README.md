@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadbava&label=Profile%20views&color=0e75b6&style=flat" alt="ahadbava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadbava&label=You'r%20&color=0e75b6&style=flat" alt="ahadbava" /> </p>
 
 - 💬 Ask me about **Raect Js , Next Js , Node Js**
 
