@@ -18,9 +18,9 @@ Welcome to my profile! I'm a passionate developer, creative director, and entrep
 - **Design Principles**: Minimalism, User-Centered Design, Responsive Layouts, Prototyping  
 
 **Game Development**  
-- **Platforms**: Unity  
-- **Tools**: Blender, Maya  
-- **Languages**: C#  
+- **Platforms**: Unreal Engine  
+- **Tools**: Blender  
+- **Languages**: Blueprints, C++
 
 ---
 
